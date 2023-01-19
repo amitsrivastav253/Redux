@@ -1,0 +1,20 @@
+.bg-mycolor 
+{
+background:linear-gradient(45deg,grey,orange) !important;
+}
+.outer
+{
+min-height:740px;
+}
+.a
+{
+min-height:740px;
+}
+.b
+{
+min-height:600px;
+}
+.c
+{
+min-height:370px;
+}
